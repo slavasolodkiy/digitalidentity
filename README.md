@@ -1,5 +1,3 @@
-\<\!-- Dark Mode Inspired README \--\>
-
 \<div align="center" style="background-color:\#000; color:\#fff; padding:40px;"\>
 
 \# DIGITAL IDENTITY.GLOBAL  2025-2026  
@@ -20,7 +18,7 @@
 \- 📄 \[Vertical PDF\](https://github.com/slavasolodkiy/digitalidentity/releases/download/v2025.09/DigitalIdentity\_MarketResearch\_2025\_ver.pdf)    
 \- 📄 \[Horizontal PDF\](https://github.com/slavasolodkiy/digitalidentity/releases/download/v2025.09/DigitalIdentity\_MarketResearch\_2025\_hor.pdf)    
 \- 🧠 \[Mindmap\](https://github.com/slavasolodkiy/digitalidentity/releases/download/v2025.09/DigitalIdentityReport2025\_mindmap.png)    
-\- 🎧 \[Audio Overview\](https://github.com/slavasolodkiy/digitalidentity/releases/download/v2025.09/Identity2025\_Audio.mp3)    
+\- 🎧 \[Audio Overview\](https://github.com/slavasolodkiy/digitalidentity/releases/download/v2025.09/Identity2025\_Audio.mp4)    
 \- 🎬 \[Video Overview\](https://github.com/slavasolodkiy/digitalidentity/releases/download/v2025.09/Identity2025\_Overview.mp4)
 
 \---  
