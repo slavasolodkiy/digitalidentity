@@ -27,10 +27,10 @@ A curated, evolving body of work on digital identity, AI-era trust, and complian
 | 2023 | Medium Post | \[SlavaS\_IdentityStartups\_medium\_2023.pdf\] |  
 | 2023 | LinkedIn Post | \[SlavaS\_IdentityStartups\_Ikdn\_2023.pdf\] |  
 | 2023 | LinkedIn (World ID could be better) | \[SlavaS\_IdentityStartups\_Ikdn\_WorldIDbetter\_2023.pdf\] |  
-| 2024 | LinkedIn (ZK Proofs) | \[SlavaS\_IdentityStartups\_Ikdn\_ZKproof\_2024.pdf\] |
+| 2024 | LinkedIn (ZK Proof No-a-Problem) | \[SlavaS\_IdentityStartups\_Ikdn\_ZKproof\_2024.pdf\] |
 
 \#\# ✦ How to cite : identity.global  
 Slava Solodkiy © Digital Identity Market Research 2025-2026.    
 Repository: (https://github.com/slavasolodkiy/digitalidentity/releases/tag/v.10.2025)  
-🔗( linkedin.com/in/slavasolodkiy\](https://www.linkedin.com/in/slavasolodkiy/)    
+🔗(https://www.linkedin.com/in/slavasolodkiy/)    
 head of curiosity @ Slava.ai
