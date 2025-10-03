@@ -6,8 +6,8 @@ A curated, evolving body of work on digital identity, AI-era trust, and complian
 \- 📄 Vertical PDF \[docs/DigitalIdentity\_MarketResearch\_2025\_ver.pdf\]    
 \- 📄 Horizontal PDF \[docs/DigitalIdentity\_MarketResearch\_2025\_hor.pdf\]    
 \- 🧠 Mindmap \[docs/DigitalIdentityReport2025\_mindmap.png\]  
-\- 🎧 Audio Overview \[docs/AI-Fueled\_Identity\_Crisis\_\_Why\_Worldcoin\_is\_Failing.mp3\]    
-\- 🎬 Video Overview \[docs/The\_Digital\_Identity\_Mirage\_.mp4\]
+\- 🎧 Audio Overview (https://open.spotify.com/episode/1mfkysk4FNaAIWHYSuW79I?si=F\_1da-IQTDinrXjqZ3hzFg)    
+\- 🎬 Video Overview (https://youtu.be/O8cw\_ovtiMM)
 
 \#\# Highlights  
 \- \*\*Proof-of-personhood vs compliance:\*\* architectural gap and practical paths.  
@@ -32,5 +32,6 @@ A curated, evolving body of work on digital identity, AI-era trust, and complian
 \#\# ✦ How to cite : identity.global  
 Slava Solodkiy © Digital Identity Market Research 2025-2026.    
 Repository: (https://github.com/slavasolodkiy/digitalidentity/releases/tag/v.10.2025)  
+DOI 10.6084/m9.figshare.30272983 (https://figshare.com/articles/thesis/Digital\_Identity\_Market\_2025-2026\_Landscape\_Research/30272983?file=58481917)  
 🔗(https://www.linkedin.com/in/slavasolodkiy/)    
 head of curiosity @ Slava.ai
