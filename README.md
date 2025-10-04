@@ -3,11 +3,12 @@
 A curated, evolving body of work on digital identity, AI-era trust, and compliance-grade architecture. This repository serves as a public showcase of reports, case studies, and media assets.
 
 \#\# ✦ Latest Release (2025-2026): (https://github.com/slavasolodkiy/digitalidentity/releases/tag/v.10.2025) includes:  
-\- 📄 Vertical PDF \[docs/DigitalIdentity\_MarketResearch\_2025\_ver.pdf\]    
-\- 📄 Horizontal PDF \[docs/DigitalIdentity\_MarketResearch\_2025\_hor.pdf\]    
-\- 🧠 Mindmap \[docs/DigitalIdentityReport2025\_mindmap.png\]  
-\- 🎧 Audio Overview (https://open.spotify.com/episode/1mfkysk4FNaAIWHYSuW79I?si=F\_1da-IQTDinrXjqZ3hzFg)    
-\- 🎬 Video Overview (https://youtu.be/O8cw\_ovtiMM)
+\+ 📄 Vertical PDF \[docs/DigitalIdentity\_MarketResearch\_2025\_ver.pdf\]    
+\+ 📄 Horizontal PDF \[docs/DigitalIdentity\_MarketResearch\_2025\_hor.pdf\]    
+\+ 🧠 Mindmap \[docs/DigitalIdentityReport2025\_mindmap.png\]  
+\+ 🎧 Audio Overview (https://open.spotify.com/episode/1mfkysk4FNaAIWHYSuW79I?si=F\_1da-IQTDinrXjqZ3hzFg)    
+\+ 🎬 Video Overview (https://youtu.be/O8cw\_ovtiMM)  
+\+ 📄 Word file, DOI 10.6084/m9.figshare.30272983 (https://figshare.com/articles/thesis/Digital\_Identity\_Market\_2025-2026\_Landscape\_Research/30272983?file=58481917) 
 
 \#\# Highlights  
 \- \*\*Proof-of-personhood vs compliance:\*\* architectural gap and practical paths.  
@@ -28,6 +29,12 @@ A curated, evolving body of work on digital identity, AI-era trust, and complian
 | 2023 | LinkedIn Post | \[SlavaS\_IdentityStartups\_Ikdn\_2023.pdf\] |  
 | 2023 | LinkedIn (World ID could be better) | \[SlavaS\_IdentityStartups\_Ikdn\_WorldIDbetter\_2023.pdf\] |  
 | 2024 | LinkedIn (ZK Proof No-a-Problem) | \[SlavaS\_IdentityStartups\_Ikdn\_ZKproof\_2024.pdf\] |
+
+\#\# ✦ Back to Basics (Compliance, KYC, KYC, CDD, EDD, AML): (https://github.com/slavasolodkiy/digitalidentity/releases/tag/v.4.10.2025) includes:  
+docs/  📄 Vertical PDF, 🧠 Mindmaps  
+🎧 Audio Overview (https://open.spotify.com/episode/0lTQISbXsTDVW40GaTOTIk?si=GRKm\_rvNS1WCkX-2c0vgvw)    
+🎬 Video Overview (https://youtu.be/nyl2p6VSs\_s)  
+📄 Word file, DOI 10.6084/m9.figshare.30278815 (https://figshare.com/articles/preprint/Re-Usable\_Digital\_Identity\_Compliance\_KYCC\_pKYC\_and\_OSINT\_Investigations/30278815?file=58494145)
 
 \#\# ✦ How to cite : identity.global  
 Slava Solodkiy © Digital Identity Market Research 2025-2026.    
